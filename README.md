@@ -18,3 +18,7 @@
 1. [Optional] Feel free to change the name of the shortcut or icon.
 1. [Optional] Changing the icon can be done by *Right Clicking* the Shortcut > Properties > Change Icon
 1. Once done, Windows will allow you to drag that shortcut to your Task Bar for easy access
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
